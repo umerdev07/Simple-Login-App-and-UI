@@ -60,31 +60,6 @@ lib/
 
 
 ---
-
-## ▶️ How to Run
-
-### 1️⃣ Clone Repository
-```bash id="r1"
-git clone <your-repo-link>
-2️⃣ Move to project folder
-cd project-name
-3️⃣ Install dependencies
-flutter pub get
-4️⃣ Run app
-flutter run
-🎯 Learning Outcomes
-Flutter widget structure (Column, Row, Container)
-Form handling using GlobalKey<FormState>
-Input validation techniques
-Screen navigation using GetX
-Controller-based architecture
-Basic UI design principles
-📸 Screenshots (Optional)
-
-Add your app screenshots here:
-
-Login Screen
-Home Screen
 📅 Project Info
 Week: Week 1
 Topic: Basic Flutter Development & UI Building
